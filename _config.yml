@@ -1,0 +1,25 @@
+# Site settings
+class:
+  short: Methods 3
+  long: Methods 3
+  term: Fall 2021
+school:
+  name: Urban @ Parsons
+  link: http://sds.parsons.edu/urban/
+  email:
+description: > # this means to ignore newlines until "baseurl:"
+  DESCRIPTION
+baseurl: /methods3-fall2021
+url: http://due-parsons.github.io
+twitter_username: TheNewSchool
+github_username:  DUE-Parsons
+
+# Build settings
+markdown: kramdown
+
+# Collections
+collections:
+  projects:
+    author: name
+    output: true
+    permalink: /projects/:path/
