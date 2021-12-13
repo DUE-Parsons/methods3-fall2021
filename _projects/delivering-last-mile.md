@@ -22,10 +22,6 @@ My maps and research will help the Deliveristas mission in identifying which par
 
 I also locate the publicly owned public spaces, to visualize the acces to each one and if it could be a possible site for resting spots, shelter, food and fulfill basic worker needs.
 
-LINKS:
-Carto:
-https://thenewschool.carto.com/u/bebita-11/builder/15d4dd40-f8d2-484c-9684-84ea22152509#/
-
 Presentation:
 ![]({{ page.img-folder }}s4PhPrv.png)
 ![]({{ page.img-folder }}Kbj05uZ.png)
