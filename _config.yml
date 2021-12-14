@@ -8,7 +8,7 @@ school:
   link: http://sds.parsons.edu/urban/
   email:
 description: > # this means to ignore newlines until "baseurl:"
-  DESCRIPTION
+  Projects from DUE Methods 3, Fall 2021
 baseurl: /methods3-fall2021
 url: http://due-parsons.github.io
 twitter_username: TheNewSchool
