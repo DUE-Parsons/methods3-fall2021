@@ -38,18 +38,18 @@ APTs were initially the focus of my research, but after visiting the most popula
 
 In order to gain a better understanding of where these relief zones could exist, I needed to build a map that could pin point the most ideal locations in the city to house these amenities. I decided to find all the parks within a short distance (500 feet) of transit stops as a starting point. Then I overlaid the 100 year flood plane estimate to see which of those parks would be most affected by climate disasters. Finally, I highlighted all the regions in accessible parks that were within a short distance to the flood plane, in order to locate the most ideal spaces for disaster relief infrastructure.
 
-<a href="![]({{ page.img-folder }}SNTpWTt"><img) src="![]({{ page.img-folder }}SNTpWTt.jpg") title="source: imgur.com" /></a>
+<img src="{{ page.img-folder }}SNTpWTt.jpg" />
 
 I noticed that Tompkins Square Park in Manhattan’s East Village could be exactly what I was looking for.
 
 My next goal was to locate where the rest of the existing basic public amenities where located in this area. I decided to include community fridges, sprinklers, water taps, community gardens and of course, park restrooms.
 
-<a href="![]({{ page.img-folder }}2jwBIPL"><img) src="![]({{ page.img-folder }}2jwBIPL.jpg") title="source: imgur.com" /></a>
+<img src="{{ page.img-folder }}2jwBIPL.jpg" />
 
 This confirmed that Tompkins Square Park was a great potential site for creating a relief zone, since many important amenities are already present in the area.
 
 Lastly, I decided to map out all of the 311 complaints about homeless encampments in parks in 2021. 
 This would help reveal where homeless populations, the most vulnerable population, were congregating.
 
-<a href="![]({{ page.img-folder }}1oMJ1ID"><img) src="![]({{ page.img-folder }}1oMJ1ID.jpg") title="source: imgur.com" /></a>
+<img src="{{ page.img-folder }}1oMJ1ID.jpg" />
 Once again, Tompkins Square Park lit up with 311 complaints, confirming a large presence of homeless encampments.

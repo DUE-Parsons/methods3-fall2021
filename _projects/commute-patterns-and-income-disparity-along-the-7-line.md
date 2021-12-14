@@ -14,7 +14,6 @@ thumbnail-path: img/commute-patterns-and-income-disparity-along-the-7-line/q947C
 img-folder: ../../img/commute-patterns-and-income-disparity-along-the-7-line/
 timestamp: undefined
 ---
-![]({{ page.img-folder }}tQVBdZx.png)
 ![]({{ page.img-folder }}q947CHs.png)
 ![]({{ page.img-folder }}SVtCaTO.png)
 
