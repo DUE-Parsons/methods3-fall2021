@@ -7,8 +7,8 @@ tagline: "Public facility access has been an ongoing challenge for New York City
 location:
     - place: New York City, New York, USA
 project-link:
-    - href: <iframe width="100%" height="520" frameborder="0" src="https://thenewschool.carto.com/u/arvan536/builder/b3402d92-cd2a-457e-a020-dff9c26cd6cf/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-    - href:  <blockquote class="imgur-embed-pub" lang="en" data-id="a/KvtsceP"><a href="//imgur.com/a/KvtsceP">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    - href: https://thenewschool.carto.com/u/arvan536/builder/b3402d92-cd2a-457e-a020-dff9c26cd6cf/embed
+    - href:  https://imgur.com/a/KvtsceP
 tags:
     - tag: climate resilience
     - tag:  homelessness
