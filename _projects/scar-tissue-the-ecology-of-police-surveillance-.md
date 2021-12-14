@@ -38,7 +38,7 @@ The surveillance of the state, specifically police surveillance has left black a
 
     <div style="max-width: 33%;">
         <img src="{{ page.img-folder }}4NBo5hh.png" />
-        (White Population Density and Misdemeanor Arrest Density )
+        (White Population Density and Misdemeanor Arrest Density)
     </div>
 </div>
 
@@ -50,16 +50,22 @@ During the Clinton era in the early 90’s many different events happened simult
 
 Census Data
 
-(Can these be shown side by side?)
-
-![]({{ page.img-folder }}pbJPDgi.png)
-(Black Non-Hispanic Population Density)
-
-![]({{ page.img-folder }}HYx5rZc.png)
-(Hispanic Population Density )
-
-![]({{ page.img-folder }}dDOWb4n.png)
-(White Population Density )
+<div style="display: flex; flex-direction: row;">
+    <div style="max-width: 33%;">
+        <img src="{{ page.img-folder }}pbJPDgi.png" />
+        (Black Non-Hispanic Population Density)
+    </div>
+        
+    <div style="max-width: 33%;">
+        <img src="{{ page.img-folder }}HYx5rZc.png" />
+        (Hispanic Population Density)
+    </div>
+        
+    <div style="max-width: 33%;">
+        <img src="{{ page.img-folder }}dDOWb4n.png" />
+        (White Population Density)
+    </div>
+</div>
 
 I  made a research decision to use Black non-hispanic data as a centerpiece because my research revolves specifically around the Black experience. I decided to analyze 3 different racial categories from the 2020 Census: Black Non-Hispanic, Hispanic, and White. The Black Non-Hispanic & Hispanic population are the heaviest policed communities in New York City. Doing a comparative analysis of these 2 communities with the white population of New York City shows the extremely different realities of criminalization taking place. I want to depict an accurate representation of the racial makeup of New York City so I found census data via “HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE” per census tract. Race is nuanced and the Black and Latinx community has a large dimension of colorism and identities. I chose this data set specifically because of the data it provides on people who classify as more than one race. According to NPR the Census data from 2020 shows that people are identifying more with multiple racial groups because of shifting conversations and identity  to whiteness. I chose Black non-Hispanic for this reasons to generally get a visual understanding of that population and how it relates to locality of Misdemeanor arrests. I also want to mention the inaccuracy of census data. The racial categories of the census leaves a lot of communities obscured into false representations. Many communities choose not to fill out the census in fear of surveillance by the American government. 
 
@@ -76,7 +82,8 @@ Petit Larceny: Stealing of property
 Dangerous Drugs: Controlled substance, Drug paraphernalia, Marijuana selling/possession, possession/Manufacturing of Meth, Possession of Hypodermic Instrument, and Sale on School grounds
 
 Top 3 Misdemeanor Arrests of 2021
-https://thenewschool.carto.com/u/reedd180/builder/1ff5f402-b1b5-4c17-9154-da60093aba84/embed
+
+<iframe width="100%" height="520" frameborder="0" src="https://thenewschool.carto.com/u/reedd180/builder/1ff5f402-b1b5-4c17-9154-da60093aba84/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 
@@ -86,9 +93,10 @@ Misdemeanor Arrest Density Maps
 (A demonstration of Predpol software from the Predpol police blog)
 
 ![]({{ page.img-folder }}PSUxRZX.jpeg)
-(  A still image from QGIS, Black Non-Hispanic Population Density and Arrest Density)
+(A still image from QGIS, Black Non-Hispanic Population Density and Arrest Density)
 
 Initially in QGIS I was analyzing arrest data in gradient styles. I realized this process of  analysis resembled the logic behind police surveillance technology. Police Surveillance technologies like Predpol and Domain Awareness Systems are heavily implemented in police departments all over the country.  Predpol is a computer program that uses algorithms to predict crime. This software was modeled after equations used for earthquake aftershocks and creates “temporary crime zones” via geospatial area. Domain Awareness Systems is mostly used by the NYPD and is one of the largest surveillance systems in the world. When filtering through different Misdemeanor arrests and its racial categories I felt myself becoming the logic behind violent police surveillance technology.  I want this process to be a reanimation of the technology used against black and brown communities so that we can find ways of intervening and obstructing this tech. When overlaying population density with Misdemeanor Arrests density my map was not showing an accurate representation of where arrests were taking place and the proper amount. I decided to outline the average rate of each racial category in New York City overlaid with the arrest density of each race. This way you can see a clear picture of the density of where misdemeanor arrests are happening within the communities throughout New York City. 
 
 2021 Misdemeanor Arrest Density by Race
-https://thenewschool.carto.com/u/reedd180/builder/d4977c3f-22f4-4178-9cc4-cf552f6aadee/embed
+
+<iframe width="100%" height="520" frameborder="0" src="https://thenewschool.carto.com/u/reedd180/builder/d4977c3f-22f4-4178-9cc4-cf552f6aadee/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
